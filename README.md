@@ -29,8 +29,11 @@ As a first step we are going to perform Exploratory Data Analysis by Preprocessi
 Once the impact of each feature is analysed using descriptive statistic approach, we use following machine learning model and stacking three types of features:
 
   1:Base Line Model being Naive Bayes
+  
   2:K Nearest Neighbour Classification
+  
   3:Logistic Regression
+  
   4:Linear Support Vector Machines
   
   Finally stacking the models.
